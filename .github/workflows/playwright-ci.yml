@@ -2,7 +2,7 @@ name: Playwright CI
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ feature-login-update ]
   pull_request:
 
 jobs:
